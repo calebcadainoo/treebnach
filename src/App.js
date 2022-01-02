@@ -29,6 +29,7 @@ const App = () => {
 
         console.log('errorCode: ', errorCode);
         console.log('errorMessage: ', errorMessage);
+        console.log('email: ', email);
         console.log('credential: ', credential);
         // ...
       });
